@@ -1,3 +1,6 @@
 {
-  "item.better_obsidian.obsidian_ingot": "Obsidian Ingot"
+  "item.better_obsidian.obsidian_ingot": "Obsidian Ingot",
+  "itemgroup.better_obsidian": "Better Obsidian",
+
+  "block.better_obsidian.reinforced_obsidian": "Reinforced Obsidian"
 }

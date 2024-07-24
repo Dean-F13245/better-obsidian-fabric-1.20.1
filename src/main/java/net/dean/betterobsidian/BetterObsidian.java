@@ -1,5 +1,7 @@
 package net.dean.betterobsidian;
 
+import net.dean.betterobsidian.Block.ModBlocks;
+import net.dean.betterobsidian.item.ModItemGroups;
 import net.dean.betterobsidian.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -13,7 +15,9 @@ public class BetterObsidian implements ModInitializer {
 	@Override
 	public void onInitialize() {
 
+		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 
 		LOGGER.info("Hello Fabric world!");
 	}
