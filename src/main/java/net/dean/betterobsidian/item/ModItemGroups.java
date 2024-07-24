@@ -21,6 +21,13 @@ public class ModItemGroups {
                         entries.add(ModItems.OBSIDIAN_INGOT);
                         entries.add(ModBlocks.REINFORCED_OBSIDIAN);
 
+                        entries.add(ModItems.OBSIDIAN_PICKAXE);
+                        entries.add(ModItems.OBSIDIAN_SWORD);
+                        entries.add(ModItems.OBSIDIAN_AXE);
+                        entries.add(ModItems.OBSIDIAN_SHOVEL);
+                        entries.add(ModItems.OBSIDIAN_HOE);
+
+
                     }).build());
 
     public static void registerItemGroups(){
