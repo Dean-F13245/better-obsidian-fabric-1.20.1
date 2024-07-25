@@ -4,10 +4,10 @@
 
   "block.better_obsidian.reinforced_obsidian": "Reinforced Obsidian",
 
-  "item:better_obsidian.obsidian_pickaxe": "Obsidian Pickaxe",
-  "item:better_obsidian.obsidian_sword": "Obsidian Sword",
-  "item:better_obsidian.obsidian_axe": "Obsidian Axe",
-  "item:better_obsidian.obsidian_shovel": "Obsidian Shovel",
-  "item:better_obsidian.obsidian_hoe": "Obsidian Hoe"
+  "item.better_obsidian.obsidian_pickaxe": "Obsidian Pickaxe",
+  "item.better_obsidian.obsidian_sword": "Obsidian Sword",
+  "item.better_obsidian.obsidian_axe": "Obsidian Axe",
+  "item.better_obsidian.obsidian_shovel": "Obsidian Shovel",
+  "item.better_obsidian.obsidian_hoe": "Obsidian Hoe"
 
 }
