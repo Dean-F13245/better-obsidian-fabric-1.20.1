@@ -27,6 +27,12 @@ public class ModItemGroups {
                         entries.add(ModItems.OBSIDIAN_SHOVEL);
                         entries.add(ModItems.OBSIDIAN_HOE);
 
+                        entries.add(ModItems.OBSIDIAN_HELMET);
+                        entries.add(ModItems.OBSIDIAN_CHESTPLATE);
+                        entries.add(ModItems.OBSIDIAN_LEGGINGS);
+                        entries.add(ModItems.OBSIDIAN_BOOTS);
+
+
 
                     }).build());
 

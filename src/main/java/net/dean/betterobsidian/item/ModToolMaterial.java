@@ -8,7 +8,7 @@ import net.minecraft.recipe.Ingredient;
 import java.util.function.Supplier;
 
 public enum ModToolMaterial implements ToolMaterial {
-    OBSIDIAN(MiningLevels.DIAMOND, 2800, 6.0F, 3.0F, 10, () -> Ingredient.ofItems(ModItems.OBSIDIAN_INGOT));
+    OBSIDIAN(5, 2500, 7.0F, 3.5F, 12, () -> Ingredient.ofItems(ModItems.OBSIDIAN_INGOT));
 
     private final int miningLevel;
     private final int itemDurability;
